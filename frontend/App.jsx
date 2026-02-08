@@ -49,8 +49,8 @@ const Portfolio = () => {
         "60% productivity boost with Gemini AI integration",
         "Full CRUD operations with real-time updates"
       ],
-      github: "#",
-      live: "#",
+      github: "https://github.com/vaishnavisisodiya/remote-collabration",
+      live: "https://remote-collabration-seven.vercel.app",
       gradient: "from-purple-600 to-pink-600"
     },
     {
@@ -63,7 +63,7 @@ const Portfolio = () => {
         "85% accuracy in semantic search",
         "Advanced document ingestion pipeline"
       ],
-      github: "#",
+      github: "https://github.com/vaishnavisisodiya/Research-Assistant",
       live: null,
       gradient: "from-cyan-600 to-blue-600"
     },
@@ -77,8 +77,8 @@ const Portfolio = () => {
         "35% increase in user retention",
         "45% reduction in page load time"
       ],
-      github: "#",
-      live: "#",
+      github: "https://github.com/vaishnavisisodiya/the-tiffin-wala",
+      live: "https://tiffinwala-five.vercel.app/",
       gradient: "from-orange-600 to-red-600"
     }
   ];
