@@ -93,8 +93,7 @@ const Portfolio = () => {
 
   const achievements = [
     { icon: Code2, text: "LeetCode Rating: 1581", subtext: "500+ problems solved" },
-    { icon: Terminal, text: "Codeforces Max: 817", subtext: "350+ problems solved" },
-    { icon: Award, text: "Advanced Algorithms", subtext: "DP, Graph Theory, Trees" }
+    { icon: Terminal, text: "Codeforces Max: 817", subtext: "350+ problems solved" }
   ];
 
   const leadership = [
